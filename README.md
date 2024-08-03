@@ -11,7 +11,7 @@
 1. Клонируйте этот репозиторий или скачайте его архивом и распакуйте.
 
 ```bash
-git clone https://github.com/yourusername/cinema-ticket-management-system.git
+git clonehttps://github.com/AkiAkzh/cinema-ticket-management-system.git
 ```
 
 
